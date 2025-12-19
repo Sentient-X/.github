@@ -1,6 +1,4 @@
-## Hi there 👋
 
-Sentient X is a stealth startup building humanoids.
 
 <!--
 
